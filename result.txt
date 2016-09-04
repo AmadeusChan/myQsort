@@ -1,0 +1,17 @@
+core:1 time:2791s
+core:2 time:157s
+core:3 time:117s
+core:4 time:92s
+core:5 time:77s
+core:6 time:69s
+core:7 time:69s
+core:8 time:61s
+
+core:1 time:
+core:2 time:
+core:3 time:
+core:4 time:
+core:5 time:
+core:6 time:
+core:7 time:
+core:8 time:
